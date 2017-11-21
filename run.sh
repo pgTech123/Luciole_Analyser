@@ -1,0 +1,1 @@
+python analyser.py ./data
